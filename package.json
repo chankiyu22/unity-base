@@ -3,5 +3,8 @@
     "displayName": "Unity Base",
     "description": "Base of Unity Project",
     "version": "0.0.1",
-    "unity": "2018.1"
+    "unity": "2018.1",
+    "keywords": [
+        "variable"
+    ]
 }
