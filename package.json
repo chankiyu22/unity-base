@@ -5,6 +5,7 @@
     "version": "0.0.1",
     "unity": "2018.1",
     "keywords": [
-        "variable"
+        "variable",
+        "event"
     ]
 }
